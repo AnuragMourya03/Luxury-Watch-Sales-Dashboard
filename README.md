@@ -63,5 +63,5 @@ To provide a in depth view of the luxury watch market, allowing users to drill d
 ---
 
 ### 6. Dashboard Preview
-![Dashboard Preview](
+![Dashboard Preview](https://github.com/AnuragMourya03/Luxury-Watch-Sales-Dashboard/blob/main/Global%20Luxury%20Watch%20Sales%20Analysis.png)
 
